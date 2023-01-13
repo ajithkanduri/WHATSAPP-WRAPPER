@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ajithkanduri@github.com/ajithkanduri/WHATSAPP-WRAPPER.git"
+  },
+  "author": "ajith-kanduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajithkanduri/WHATSAPP-WRAPPER/issues"
+  },
+  "homepage": "https://github.com/ajithkanduri/WHATSAPP-WRAPPER#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.18.2",
+    "serverless-http": "^3.1.1",
+    "twilio": "^3.84.0",
+    "winston": "3.3.3",
+    "winston-daily-rotate-file": "4.5.5"
+  }
+}
